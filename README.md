@@ -22,6 +22,8 @@ Klein, L., & Soni, S. (2021). [HOW WORDS LEAD TO JUSTICE](https://www.publicbook
 
 Kozlowski, A. C., Taddy, M., & Evans, J. A. (2019). [The geometry of culture: Analyzing the meanings of class through word embeddings](https://journals.sagepub.com/doi/full/10.1177/0003122419877135). American Sociological Review, 84(5), 905-949.
 
+Lix, K., Goldberg, A., Srivastava, S., & Valentine, M. A. Forthcoming. [Aligning Differences: Discursive Diversity and Team Performance](https://osf.io/preprints/socarxiv/8pjga/). Management Science.
+
 OSNABRÜGGE, M., HOBOLT, S., & RODON, T. (2021). [Playing to the Gallery: Emotive Rhetoric in Parliaments](https://www.cambridge.org/core/journals/american-political-science-review/article/playing-to-the-gallery-emotive-rhetoric-in-parliaments/2A47C797136261391DA27F3A16F64886). American Political Science Review, 115(3), 885-899. doi:10.1017/S0003055421000356
 
 Rheault, L., & Cochrane, C. (2020). [Word Embeddings for the Analysis of Ideological Placement in Parliamentary Corpora](https://www.cambridge.org/core/journals/political-analysis/article/abs/word-embeddings-for-the-analysis-of-ideological-placement-in-parliamentary-corpora/017F0CEA9B3DB6E1B94AC36A509A8A7B). Political Analysis, 28(1), 112-133. doi:10.1017/pan.2019.26
