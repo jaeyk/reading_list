@@ -1,6 +1,6 @@
 # My reading list for the comp methods applications in social sciences (and humanities)
 
-* Citation style: ASA preferred 
+* Citation style: APA preferred 
 
 ## Word embedding 
 
