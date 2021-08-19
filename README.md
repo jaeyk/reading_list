@@ -1,5 +1,7 @@
 # My reading list for the comp methods applications in social sciences (and humanities)
 
+* Citation style: ASA preferred 
+
 ## Word embedding 
 
 Ash, E., & Chen, D., & Naidu, S. (2020). [Ideas Have Consequences: The Impact of Law and Economics on American Justice](https://uc23a5af8411de3649c416453e12.dl.dropboxusercontent.com/cd/0/inline2/BUggZZdJXkN5D5L-Wcfn575LvzxwLCOI0QuzW5K6GqQqmAvRmzyCr_KqeVSrr-IKUHjLm4iekpFK5FFAU_cMI89AeP2erzduw4bz-XZyeXzzjHdkD-t1h-1KlzqnGOQeCj_SvfOvNXaS0vZHpVc0oY-9GuvSo-gjf7VmaYH2UUNFjsslfTD0lXkL4h9d0Rv4t8VA6jru8seLu4QWEC7xZfcmZOJ5G1rMPLceVSTm2fEcEC_AYcfUjoYhZWpad2wzBIQJUmE9hwgb2c_-MmY8m4LgY__atN0bEbC1APK8Bc9kimP_Vhtn0zxmjTMQp3i1hvzY81LL2jexDR6k5xrCmuaKBg9FLkIxQWLRG6i2W8oXw4n1j4XqBU207ptocDMQ814/file#). Working paper. 
