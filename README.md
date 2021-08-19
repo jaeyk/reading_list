@@ -6,6 +6,8 @@ Ash, E., & Chen, D., & Naidu, S. (2020). [Ideas Have Consequences: The Impact of
 
 Ash, E., & Chen, D., & Ornaghi, A. (2021). [Gender Attitudes in the Judiciary: Evidence from U.S. Circuit Courts](https://ucfcf5676f543f1b6be83edabdb0.dl.dropboxusercontent.com/cd/0/inline2/BUgAAIrr0VPyVirwrlpFp5MzHJ6Y3l3MRnIx0Lv5drCFcR2ogc8TFiFE1isxGppL2axqjv6Ah1wCG3YUhtE5A5fPG4xOv67d7ZtXa0oZ-3EVSpFcGa4o2VdsJZ978XXuevGE6k9tgWx1sxXE8UPWr6TqkVbfJIYR-eiB9uO0UD9063dPuqC0El9VBgJGfTFdu-UVPQPHjMMlgyiffYF_GaoH5PUpiB0hSzela4SSLPYSnwG2ERevJg1gKe8kPV2HgFUUItIHOTCwOEDdNx9ThcoQd8L_DuAiZZL8az_SL8EgrH3cz_MWRGkeQv1SNaFuYF1Wmnp4FrVCsmTM7j5T72ml1OULOoxe3Xb3A2arIHd9CVr1c0cpDSP8LzO6ocSFJw0/file#). Working paper.
 
+Ash, E., & Gauthier, G., & Widmer, P. (2021). [Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720). arXiv:2108.01720 [software](https://github.com/relatio-nlp/relatio)
+
 Gennaro, G., & Ash, E. (2021). [Emotion and Reason in Political Language](https://elliottash.com/wp-content/uploads/2021/08/Emotions_in_Politics_Economic_Journal_CA.pdf). Working paper. 
 
 Garg, N., Schiebinger, L., Jurafsky, D., & Zou, J. (2018). [Word embeddings quantify 100 years of gender and ethnic stereotypes](https://www.pnas.org/content/115/16/E3635.short). Proceedings of the National Academy of Sciences, 115(16), E3635-E3644.
@@ -22,7 +24,7 @@ Rheault, L., & Cochrane, C. (2020). [Word Embeddings for the Analysis of Ideolog
 
 Rodman, E. (2020). [A Timely Intervention: Tracking the Changing Meanings of Political Concepts with Word Vectors](https://www.cambridge.org/core/journals/political-analysis/article/abs/timely-intervention-tracking-the-changing-meanings-of-political-concepts-with-word-vectors/DDF3B5833A12E673EEE24FBD9798679E). Political Analysis, 28(1), 87-111. doi:10.1017/pan.2019.23
 
-Rodriguez, P. L., Spirling, A., & Stewart, B. M. [Embedding Regression: Models for Context-Specific Description and Inference.](https://github.com/prodriguezsosa/EmbeddingRegression)
+Rodriguez, P. L., Spirling, A., & Stewart, B. M. [Embedding Regression: Models for Context-Specific Description and Inference.](https://github.com/prodriguezsosa/EmbeddingRegression/blob/main/Paper/RodriguezSpirlingStewart_EmbeddingRegression.pdf) [software](https://github.com/prodriguezsosa/EmbeddingRegression)
 
 Simon Vydra, Jaroslaw Kantorowicz. (2021) [Tracing Policy-relevant Information in Social Media: The Case of Twitter before and during the COVID-19 Crisis](https://www.tandfonline.com/doi/citedby/10.1080/19312458.2020.1832976?scroll=top&needAccess=true). Statistics, Politics and Policy 12:1, pages 87-127.
 
