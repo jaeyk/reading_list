@@ -10,6 +10,8 @@ Ash, E., & Chen, D., & Ornaghi, A. (2021). [Gender Attitudes in the Judiciary: E
 
 Ash, E., & Gauthier, G., & Widmer, P. (2021). [Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720). arXiv:2108.01720 [[software](https://github.com/relatio-nlp/relatio)]
 
+Bolukbasi, T., Chang, K. W., Zou, J. Y., Saligrama, V., & Kalai, A. T. (2016). [Man is to computer programmer as woman is to homemaker? debiasing word embeddings](https://papers.nips.cc/paper/6228-estimating-the-size-of-a-large-network-and-its-communities-from-a-random-sample.pdf). Advances in neural information processing systems, 29, 4349-4357.
+
 Gennaro, G., & Ash, E. (2021). [Emotion and Reason in Political Language](https://elliottash.com/wp-content/uploads/2021/08/Emotions_in_Politics_Economic_Journal_CA.pdf). Working paper. 
 
 Garg, N., Schiebinger, L., Jurafsky, D., & Zou, J. (2018). [Word embeddings quantify 100 years of gender and ethnic stereotypes](https://www.pnas.org/content/115/16/E3635.short). Proceedings of the National Academy of Sciences, 115(16), E3635-E3644.
