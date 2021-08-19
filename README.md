@@ -8,6 +8,8 @@ Ash, E., & Chen, D., & Ornaghi, A. (2021). [Gender Attitudes in the Judiciary: E
 
 Gennaro, G., & Ash, E. (2021). [Emotion and Reason in Political Language](https://elliottash.com/wp-content/uploads/2021/08/Emotions_in_Politics_Economic_Journal_CA.pdf). Working paper. 
 
+Garg, N., Schiebinger, L., Jurafsky, D., & Zou, J. (2018). [Word embeddings quantify 100 years of gender and ethnic stereotypes](https://www.pnas.org/content/115/16/E3635.short). Proceedings of the National Academy of Sciences, 115(16), E3635-E3644.
+
 Kelly, B. (2020). [Measuring Technological Innovation Over The Long Run](https://www.nber.org/system/files/working_papers/w25266/w25266.pdf). NBER Working Paper 25266
 
 Klein, L., & Soni, S. (2021). [HOW WORDS LEAD TO JUSTICE](https://www.publicbooks.org/how-words-lead-to-justice/). Public Books.
